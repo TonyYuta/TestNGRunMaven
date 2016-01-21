@@ -14,6 +14,5 @@ public class MainPage
 	public static float fl2 = 1.5F;
 	
 	
-    public static void main( String[] args ) {
-    }
+    public static void main( String[] args ) {}
 }
