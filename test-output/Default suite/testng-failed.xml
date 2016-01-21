@@ -6,4 +6,13 @@
       <class name="core.MainPageTest"/>
     </classes>
   </test> <!-- Default test -->
+  <test name="Default test(failed)">
+    <classes>
+      <class name="core.MainPageTest">
+        <methods>
+          <include name="assertEqualsTest"/>
+        </methods>
+      </class> <!-- core.MainPageTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
