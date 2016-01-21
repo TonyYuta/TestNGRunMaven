@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="32" started-at="2016-01-21T19:45:22Z" finished-at="2016-01-21T19:45:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="32" started-at="2016-01-21T19:45:22Z" finished-at="2016-01-21T19:45:22Z">
+      <class name="core.MainPageTest">
+        <test-method status="PASS" signature="stringConcatenate()[pri:0, instance:core.MainPageTest@4e4aea35]" name="stringConcatenate" duration-ms="14" started-at="2016-01-21T11:45:22Z" finished-at="2016-01-21T11:45:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stringConcatenate -->
+        <test-method status="PASS" signature="sumFloat()[pri:0, instance:core.MainPageTest@4e4aea35]" name="sumFloat" duration-ms="1" started-at="2016-01-21T11:45:22Z" finished-at="2016-01-21T11:45:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sumFloat -->
+        <test-method status="PASS" signature="sumInt()[pri:0, instance:core.MainPageTest@4e4aea35]" name="sumInt" duration-ms="0" started-at="2016-01-21T11:45:22Z" finished-at="2016-01-21T11:45:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sumInt -->
+      </class> <!-- core.MainPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
